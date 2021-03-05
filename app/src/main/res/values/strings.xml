@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaParcial2</string>
+    <string name="app_title">Cargar una imagen de un país</string>
+    <string name="app_button_text">Abrir galería de imágenes</string>
+    <string name="app_hint_text_textview">Nombre de la imagen</string>
+    <string name="app_txt_button_process">Procesar</string>
+    <string name="app_show_data">Ver datos</string>
+</resources>
